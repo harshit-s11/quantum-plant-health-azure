@@ -1,0 +1,8 @@
+flask
+numpy
+pillow
+scikit-learn
+qiskit
+qiskit-machine-learning
+azure-storage-blob
+gunicorn
